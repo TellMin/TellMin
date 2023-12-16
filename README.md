@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello, I'm TellMin!
 
-<!--
-**TellMin/TellMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://qiita-badge.apiapi.app/s/TellMin/posts.svg)
+![](https://qiita-badge.apiapi.app/s/TellMin/contributions.svg)
 
-Here are some ideas to get you started:
+### GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![stats](https://github-readme-stats.vercel.app/api?username=TellMin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TellMin&theme=tokyonight)
+
+### Top Languages
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TellMin&layout=compact&theme=tokyonight&hide_border=true)
+
+### Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=TellMin&theme=onedark&column=3)
+
+---
